@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar Chauhan</h1>
-<h3 align="center">What do i do ? > System Architecture. Networking and Security. I prevent cross site scripting, I monitor for DDoS attacks, emergency database rollbacks, and faulty transaction handlings.</h3>
+<h3 align="center">SDE 3 @ Legistify</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam3596&label=Profile%20views&color=0e75b6&style=flat" alt="shivam3596" /> </p>
 
