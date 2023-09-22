@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar Chauhan</h1>
 <h3 align="center">SDE 3 @ Legistify</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam3596&label=Profile%20views&color=0e75b6&style=flat" alt="shivam3596" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam3596" alt="shivam3596" /></a> </p>
-
 - 🔭 I’m currently working on **Contract Service, Alert & report service, Communication service, Auth Service**
 
 - 🌱 I’m currently learning **Elastic Search, Machine Learning**
